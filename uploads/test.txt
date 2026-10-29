@@ -1,0 +1,1 @@
+Cloud services catalog: IaaS, PaaS, SaaS.
